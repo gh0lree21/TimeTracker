@@ -18,7 +18,7 @@ Although far from complete, I feel that my work here has effectively
 proven my basic knowledge of Kotlin classes, variables, loops, collections,
 and more. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/P632LTvNvPU)
 
 # Development Environment
 
